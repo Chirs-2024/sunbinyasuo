@@ -6,6 +6,9 @@
 
 访问 [https://chirs-2024.github.io/sunbinyasuo](https://chirs-2024.github.io/sunbinyasuo) 体验在线演示。
 
+## 部署状态
+[![部署状态](https://github.com/Chirs-2024/sunbinyasuo/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Chirs-2024/sunbinyasuo/actions/workflows/pages/pages-build-deployment)
+
 ## 功能特点
 
 - 支持上传 PNG、JPG 格式图片
